@@ -1,0 +1,6 @@
+Bathrooms,Address,Land area,CV,Latitude,Longitude,SA1,0-19 years,20-29 years,30-39 years,40-49 years,50-59 years,60+ years,Suburbs,Population,NZDep2018_x,NZDep2018_Score_x,URPopnSA1_2018_x,SA22018_code_x,SA22018_name_x,NZDep2018_y,NZDep2018_Score_y,URPopnSA1_2018_y,SA22018_code_y,SA22018_name_y
+3.0,"106 Lawrence Crescent Hill Park, Auckland",714.0,960000,-37.0129205,174.90406940000003,7009770,48,27,24,21,24,21,Manurewa,406,6.0,997.0,174,159600,Hillpark North,6.0,997.0,174,159600,Hillpark North
+3.0,"8 Corsica Way Karaka, Auckland",564.0,1250000,-37.0636724,174.9229121,7009991,42,18,12,21,15,30,Karaka,406,1.0,881.0,129,162500,Hingaia,1.0,881.0,129,162500,Hingaia
+4.0,"243 Harbourside Drive Karaka, Auckland",626.0,1250000,-37.06357970000001,174.9240444,7009991,42,18,12,21,15,30,Karaka,406,1.0,881.0,129,162500,Hingaia,1.0,881.0,129,162500,Hingaia
+1.0,"2/30 Hardington Street Onehunga, Auckland",65.0,740000,-36.9129964,174.78742490000005,7007871,42,6,21,21,12,15,Onehunga,406,2.0,908.0,120,144300,Onehunga North,2.0,908.0,120,144300,Onehunga North
+1.0,"59 Israel Avenue Clover Park, Auckland",601.0,630000,-36.9790369,174.8926119,7008902,93,27,33,30,21,33,Clover Park,406,9.0,1091.0,231,157700,Clover Park North,9.0,1091.0,231,157700,Clover Park North
